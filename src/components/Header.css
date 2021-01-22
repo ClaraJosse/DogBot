@@ -1,0 +1,28 @@
+.top-left {
+    position: absolute;
+    top: 180px;
+    left: 100px;
+  }
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(245, 246, 248);
+    text-transform: uppercase;
+}
+
+.baseline{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(245, 246, 248);
+    padding-top: 40px;
+}
+
+.imgHeader{
+    height: 700px;
+    width: 100%;
+}
+
+#divHeader{
+    width: 100%;;
+}

@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+#divProducts{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#divArgus{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

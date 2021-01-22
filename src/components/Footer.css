@@ -1,0 +1,23 @@
+#containerFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(19, 57, 75);
+    height: 200px;
+}
+
+.textFooter{
+    color: white;
+}
+
+#divParagraph{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.imgFooter{
+    height: 150px;
+}
